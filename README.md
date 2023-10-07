@@ -13,7 +13,7 @@ Step 1:
 
 Download or clone this repo by using the link below:
 
-    git clone https://github.com/Jackfrst/Cocola_Jems.git
+    git clone https://github.com/Jackfrst/space_monkey.git
 
 Step 2:
 
