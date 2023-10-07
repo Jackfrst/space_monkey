@@ -57,8 +57,8 @@ Build apk files from project:
   </tr>
 
   <tr>
-    <th>AR MOON</th>
     <th>AR ECLIPSE</th>
+    <th>AR MOON</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/Jackfrst/space_monkey/assets/60434580/26b1ceab-a902-40f8-9512-05618453d357" width="350"></td>
